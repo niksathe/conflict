@@ -1,5 +1,2 @@
 
 We are on branch master-master after first half
-
-We are on branch master after branch
-
