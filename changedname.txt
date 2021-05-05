@@ -1,11 +1,7 @@
 
 We are on branch master-master after first half
 
-
-<<<<<<< HEAD
 master-
-
 master-
-=======
  after first half
->>>>>>> newbr
+
